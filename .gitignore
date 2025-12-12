@@ -1,0 +1,23 @@
+# Archivos de base de datos
+db.sqlite3
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entorno
+.env
+
+# Archivos de migraciones compilados
+*.log
+
+# Archivos de IDE/editores
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
